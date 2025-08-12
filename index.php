@@ -479,7 +479,7 @@
                     </script>
                 <?php } ?>
 
-                <h2 class="text-2xl font-semibold text-gray-700 mb-4">Historial de Apuestas</h2>
+                <h2 class="text-2xl font-semibold text-gray-700 mb-4">Balance de Apuestas</h2>
                 <?php if ($conn && $total_bets > 0): // Asegurarse de que $conn existe y hay apuestas ?>
                     <div id="table" class="overflow-x-auto">
                         <table class="min-w-full bg-white border border-gray-200 rounded-lg shadow-sm">
