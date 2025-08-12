@@ -280,7 +280,6 @@
 
         <!-- Contenedor principal para las dos columnas -->
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            <!-- Primera columna: Formulario y Estadísticas -->
             <div>
                 <!-- Formulario para añadir/editar apuestas -->
                 <h2 class="text-2xl font-semibold text-gray-700 mb-4">
