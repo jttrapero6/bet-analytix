@@ -283,7 +283,7 @@
             <div>
                 <!-- Formulario para añadir/editar apuestas -->
                 <h2 class="text-2xl font-semibold text-gray-700 mb-4">
-                    <?php echo ($edit_bet_data ? 'Editar Apuesta' : 'Añadir Nueva Apuesta'); ?>
+                    <?php echo ($edit_bet_data ? 'Editar Apuesta' : 'Nueva Apuesta'); ?>
                 </h2>
                 <form method="POST" action="index.php" class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8 p-4 border border-gray-200 rounded-lg bg-gray-50">
                     <?php if ($edit_bet_data): ?>
